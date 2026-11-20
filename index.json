@@ -29,30 +29,6 @@
                                                                                "hideInEditor":  false,
                                                                                "url":  "https://yukke0618.github.io/tan22fcpd4/jp.yukke.shapepick-1.0.0.zip",
                                                                                "zipSHA256":  "4b2fc73c99664c5b9196340c552d4d332cd98ee1fcb190dcdbd44e8d156a936d"
-                                                                           },
-                                                                 "1.0.1":  {
-                                                                               "name":  "jp.yukke.shapepick",
-                                                                               "displayName":  "ShapePick",
-                                                                               "version":  "1.0.1",
-                                                                               "unity":  "2022.3",
-                                                                               "description":  "シェイプキー（ブレンドシェイプ）を調整するとき、気に入った状態を候補としてワンボタンで保存し、今の値や別の候補と切替・並べて比較・数値差分で見比べる Unity エディタ拡張です。VRChat SDK には依存しません。",
-                                                                               "author":  {
-                                                                                              "name":  "yukke"
-                                                                                          },
-                                                                               "license":  "MIT",
-                                                                               "keywords":  [
-                                                                                                "vrchat",
-                                                                                                "avatar",
-                                                                                                "blendshape",
-                                                                                                "editor",
-                                                                                                "japanese"
-                                                                                            ],
-                                                                               "vpmDependencies":  {
-
-                                                                                                   },
-                                                                               "hideInEditor":  false,
-                                                                               "url":  "https://yukke0618.github.io/tan22fcpd4/jp.yukke.shapepick-1.0.1.zip",
-                                                                               "zipSHA256":  "f1a1856ba38b04a7bd83a9b5f863ff82a8cd85e15098d2e7bc1cf6a82432c4b3"
                                                                            }
                                                              }
                                             }
